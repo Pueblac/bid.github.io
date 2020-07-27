@@ -1,2 +1,2 @@
-# bid.github.io
-Bid
+# text.github.io
+Primer ensayo de Rvest scrapeando sitios web.
